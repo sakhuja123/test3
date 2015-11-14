@@ -1,2 +1,2 @@
 line one here
-line 2 added by dev1
+line 2 added by dev1 .. editing it remote from github.com
